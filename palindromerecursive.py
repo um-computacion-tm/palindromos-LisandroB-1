@@ -1,4 +1,3 @@
-from site import check_enableusersite
 import unittest;
 
 def test(word):
